@@ -87,7 +87,7 @@ I want to learn more and do more with event listener for interactivity with the 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [jetskeeter1](jetskeeter1.github.io/news-homepage/)
 - Frontend Mentor - [@jetskeeter1](https://www.frontendmentor.io/profile/jetskeeter1)
 - Twitter - [@jetskeeter9](https://www.instagram.com/jetskeeter9/?hl=en)
 
